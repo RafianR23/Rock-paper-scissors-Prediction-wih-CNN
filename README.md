@@ -1,6 +1,4 @@
-# Dicoding-Machine-Learning-2021
-Course Dicoding Machine Learning
-
+# Rock Scissors Paper Prediction with CNN
 
 1. data data rar untuk latian
 2. pakai google collab
